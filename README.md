@@ -2,7 +2,6 @@
 
 A simple user information submission form built using **ColdFusion (CFML)**, allowing users to enter and manage data like Name, Email, Password, and Phone Number. The data is styled using CSS and submitted via ColdFusion components.
 
-![Form Screenshot](./99059ce9-e636-4027-b0ae-a1ed9ff24fc7.png)
 
 ---
 
